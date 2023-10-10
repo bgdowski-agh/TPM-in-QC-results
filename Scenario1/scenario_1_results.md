@@ -43,9 +43,9 @@
 | 13        | 393.54      | 18.1                      | 63.32     | 0.21                    | 239.95      | 11.21                     | 0.57        | 0.022                     | 0.615       | 0.026                     |
 | 14        | 460.05      | 17.81                     | 63.46     | 0.2                     | 297.16      | 11.62                     | 0.442       | 0.018                     | 0.449       | 0.02                      |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_h3.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_h3.png)
 
 ## hebbian, `QBER` = `5%`:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -62,9 +62,9 @@
 | 13        | 457.71      | 23.91                     | 63.34     | 0.2                     | 280.98      | 14.9                      | 0.572       | 0.026                     | 0.62        | 0.032                     |
 | 14        | 605.06      | 30.18                     | 63.39     | 0.19                    | 392.28      | 19.73                     | 0.416       | 0.019                     | 0.422       | 0.02                      |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_h5.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_h5.png)
 
 ## hebbian, `QBER` = `7%`:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -81,9 +81,9 @@
 | 13        | 465.51      | 23.69                     | 63.81     | 0.21                    | 286.56      | 14.85                     | 0.565       | 0.03                      | 0.623       | 0.041                     |
 | 14        | 621.45      | 28.29                     | 63.46     | 0.19                    | 404.58      | 18.63                     | 0.412       | 0.019                     | 0.409       | 0.019                     |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_h7.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_h7.png)
 
 ## randomwalk, random keys:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -100,9 +100,9 @@
 | 13        | 1475.39     | 19.88                     | 67.35     | 0.2                     | 773.15      | 10.74                     | 0.074       | 0.001                     | 0.096       | 0.001                     |
 | 14        | 1689.26     | 22.33                     | 67.63     | 0.18                    | 952.33      | 13.15                     | 0.065       | 0.001                     | 0.078       | 0.001                     |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_rX.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_rX.png)
 
 ## randomwalk, `QBER` = `3%`:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -119,9 +119,9 @@
 | 13        | 836.43      | 17.76                     | 67.47     | 0.2                     | 465.43      | 9.94                      | 0.163       | 0.007                     | 0.199       | 0.008                     |
 | 14        | 1022.69     | 20.12                     | 67.66     | 0.18                    | 605         | 12.11                     | 0.12        | 0.003                     | 0.137       | 0.003                     |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_r3.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_r3.png)
 
 ## randomwalk, `QBER` = `5%`:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -138,9 +138,9 @@
 | 13        | 835.69      | 18.52                     | 67.39     | 0.2                     | 465.63      | 10.42                     | 0.161       | 0.005                     | 0.195       | 0.006                     |
 | 14        | 1020.46     | 20.6                      | 67.27     | 0.19                    | 605.51      | 12.37                     | 0.122       | 0.003                     | 0.139       | 0.003                     |
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_r5.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_r5.png)
 
 ## randomwalk, `QBER` = `7%`:
 ### table with results \([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
@@ -158,6 +158,6 @@
 | 14        | 1028.15     | 19.94                     | 67.33     | 0.19                    | 607.7       | 11.94                     | 0.121       | 0.003                     | 0.138       | 0.004                     |
 
 ### Synchronization percent per update
-![Synchronization percent per update](charts/1_synch/1_K_synch_hX.png)
+![Synchronization percent per update](charts/1_synch/1_K_synch_r7.png)
 ### Attacker's synchronization and updates
-![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
+![Attacker's synchronization and updates](charts/1_update/1_K_update_r7.png)
