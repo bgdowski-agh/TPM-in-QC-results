@@ -7,7 +7,7 @@ There are two types of charts:
 - charts that present victim's and attacker's synchronization percen per update (called "synch")
 - charts that present attacker's synchonization with victims' keys, as well as number of updates performed by attacker (called "update")
 
-Filenames contain:
+Chart filenames contain:
 * scenario number
 * letters corresponding to the variables (and its values, if applicable)
 * chart type ("synch"/"update")
