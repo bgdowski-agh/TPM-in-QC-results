@@ -10,7 +10,7 @@
 | ***`P_A`***             | average attacker's synchronization percent per update |
 
 ## hebbian, random keys:
-### table with results [legend](scenario_1_results.md#attackers-synchronization-and-updates-7):
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 358.64      | 11.5                      | 66.52     | 0.46                    | 86.02       | 3.18                      | 0.451       | 0.017                     | 1.416       | 0.059                     |
@@ -29,7 +29,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## hebbian, `QBER` = `3%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 57.06       | 4.25                      | 65.32     | 0.38                    | 15.52       | 1.09                      | 4.716       | 0.237                     | 10.412      | 0.516                     |
@@ -48,7 +48,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## hebbian, `QBER` = `5%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 70.41       | 6.26                      | 65.45     | 0.35                    | 19.47       | 2.01                      | 4.57        | 0.292                     | 10.524      | 0.552                     |
@@ -67,7 +67,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## hebbian, `QBER` = `7%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 64.08       | 5.42                      | 65.55     | 0.38                    | 17.97       | 1.86                      | 5.228       | 0.367                     | 10.765      | 0.537                     |
@@ -86,7 +86,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## randomwalk, random keys:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 223.48      | 4.64                      | 69.95     | 0.35                    | 45.73       | 1.03                      | 0.569       | 0.014                     | 2.036       | 0.058                     |
@@ -105,7 +105,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## randomwalk, `QBER` = `3%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 92.34       | 3.23                      | 69.43     | 0.32                    | 23.48       | 0.81                      | 2.986       | 0.35                      | 6.624       | 0.423                     |
@@ -124,7 +124,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## randomwalk, `QBER` = `5%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 103.65      | 3.24                      | 69.89     | 0.32                    | 26.23       | 0.81                      | 2.252       | 0.244                     | 5.319       | 0.373                     |
@@ -143,7 +143,7 @@
 ![Attacker's synchronization and updates](charts/1_update/1_K_update_hX.png)
 
 ## randomwalk, `QBER` = `7%`:
-### table with results:
+### table with results\([legend](scenario_1_results.md#explanation-for-abbreviations-in-tables)\):
 | ***`K`*** | ***`U_V`*** | ***`E`<sub>`U_V`</sub>*** | ***`S`*** | ***`E`<sub>`S`</sub>*** | ***`U_A`*** | ***`E`<sub>`U_A`</sub>*** | ***`P_V`*** | ***`E`<sub>`P_V`</sub>*** | ***`P_A`*** | ***`E`<sub>`P_A`</sub>*** |
 |-----------|-------------|---------------------------|-----------|-------------------------|-------------|---------------------------|-------------|---------------------------|-------------|---------------------------|
 | 5         | 99.06       | 3.27                      | 69.45     | 0.34                    | 25.07       | 0.82                      | 2.321       | 0.138                     | 6.475       | 0.446                     |
