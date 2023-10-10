@@ -10,7 +10,7 @@ There are two types of charts:
 Filenames contain:
 * scenario number
 * letters corresponding to the variables (and its values, if applicable)
-* chart type ("synch"/"update"
+* chart type ("synch"/"update")
 * update algorithm  - "h" stands for hebbian, "r" stands for randomwalk
 * QBER value in % (if applicable; in case of random keys, theres "X" instead of number)
 
