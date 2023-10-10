@@ -7,7 +7,8 @@ Filenames contain:
 * N value (or two values, in case of scenario 3)
 * L value
 * QBER value in %
-* update algorithm name
+* update algorithm  - "h" stands for hebbian, "r" stands for randomwalk
+  
 There are two types of charts:
 - charts that present victim's and attacker's synchronization percen per update (called "synch")
 - charts that present attacker's synchonization with victims' keys, as well as number of updates performed by attacker (called "update")
